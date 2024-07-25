@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2ca11a5.css",
+    "main.js": "/static/js/main.15721420.js",
+    "static/media/pexels-adrien-olichon-2387532.jpg": "/static/media/pexels-adrien-olichon-2387532.d421ea5657990a10c3dc.jpg",
+    "index.html": "/index.html",
+    "main.e2ca11a5.css.map": "/static/css/main.e2ca11a5.css.map",
+    "main.15721420.js.map": "/static/js/main.15721420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ca11a5.css",
+    "static/js/main.15721420.js"
+  ]
+}
